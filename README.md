@@ -1,6 +1,6 @@
 # 💻 TecLabs
 
-![Logo TecLabs](imagem.png)
+![Logo TecLabs](image.png)
 
 ## Objetivo do Repositório
 Repositório criado para o desafio da Semana 1 – Labs Talents.
