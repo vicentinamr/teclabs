@@ -9,7 +9,7 @@ Repositório criado para o desafio da Semana 1 – Labs Talents.
 - Leonardo Oriente
 - Diego
 - Eduardo
-- Laedson
+- Laedson de Oliveira
 
 ## Avatar do time
 Logo do grupo TecLabs.
