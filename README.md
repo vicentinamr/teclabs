@@ -1,5 +1,10 @@
 # TecLabs
 
+## Avatar do time
+Logo do grupo TecLabs.
+
+![Logo TecLabs](image.png)
+
 
 ## Objetivo do Repositório
 Repositório criado para o desafio da Semana 1 – Labs Talents.
@@ -11,8 +16,8 @@ Repositório criado para o desafio da Semana 1 – Labs Talents.
 - Eduardo
 - Laedson de Oliveira
 
-## Avatar do time
-Logo do grupo TecLabs.
 
-![Logo TecLabs](image.png)
+
+## 📌 Sobre o projeto
+Este repositório foi criado com o objetivo de praticar versionamento com Git e trabalho em equipe utilizando GitHub.
 
