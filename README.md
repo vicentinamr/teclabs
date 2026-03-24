@@ -1,7 +1,7 @@
 # TecLabs
 
 
-## Objetivo do repositório
+## Objetivo do Repositório
 Repositório criado para o desafio da Semana 1 – Labs Talents.
 
 ## Integrantes
