@@ -12,7 +12,10 @@ Repositório criado para o desafio – Labs Talents.
 - Laedson
 
 ## Avatar do time
-Logo do grupo TecLabs.# teclabs
+Logo do grupo TecLabs.
+# teclabs
+
 ![Logo TecLabs](image.png)
+
 ## Observação
 Este repositório foi criado para praticar Git e GitHub em equipe.
