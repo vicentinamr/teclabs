@@ -7,7 +7,7 @@ Repositório criado para o desafio da Semana 1 – Labs Talents.
 ## Integrantes
 - Vicentina Martins dos Reis
 - Leonardo Oriente
-- Diego
+- Diego Magno
 - Eduardo
 - Laedson de Oliveira
 
