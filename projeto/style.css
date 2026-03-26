@@ -20,11 +20,7 @@ body {
     color: var(--color-text);
 }
 
-.container {
-    width: 80%;
-    margin: auto;
-    padding: 20px;
-}
+
 
 h1,
 h2,
@@ -56,9 +52,28 @@ textarea {
     margin-bottom: 10px;
 }
 
-.card {
-    background-color: var(--color-white);
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 80%;
+    margin: auto;
     padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.body-login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f4f4f4;
+}
+
+.login-container {
+    background: white;
+    padding: 30px;
+    width: 100%;
+    max-width: 35%;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(167, 105, 105, 0.1);
 }
