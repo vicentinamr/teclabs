@@ -1,21 +1,17 @@
-# TecLabs
-
-
-## Objetivo do repositório
-Repositório criado para o desafio – Labs Talents.
-
-## Integrantes
-- Vicentina Martins dos Reis
-- Leonardo Oriente
-- Diego
-- Eduardo
-- Laedson
-
-## Avatar do time
-Logo do grupo TecLabs.
-# teclabs
+# 💻 TecLabs
 
 ![Logo TecLabs](image.png)
 
-## Observação
-Este repositório foi criado para praticar Git e GitHub em equipe.
+## Objetivo do Repositório
+Repositório criado para o desafio da Semana 1 – Labs Talents.
+
+## 👥 Integrantes
+- Vicentina Martins dos Reis
+- Leonardo Oriente
+- Diego Magno
+- Eduardo
+- Laedson de Oliveira
+
+## 📌 Sobre o projeto
+Este repositório foi criado com o objetivo de praticar versionamento com Git e trabalho em equipe utilizando GitHub.
+
