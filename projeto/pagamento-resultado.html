@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resultado do Pagamento - Plataforma de Eventos</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="header">
+        <h1>Resultado do Pagamento</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="dashboard.html">Dashboard</a>
+        </nav>
+    </div>
+
+    <div class="container">
+        <h2 id="resultado">Processando...</h2>
+        <p id="mensagem"></p>
+        <a href="checkin.html"><button id="proximo" style="display:none;">Fazer Check-in</button></a>
+    </div>
+
+    <script src="script.js"></script>
+    <script>
+        // Simulação simples: 50% chance de aprovado
+        const aprovado = Math.random() > 0.5;
+        document.getElementById('resultado').textContent = aprovado ? 'Pagamento Aprovado!' : 'Pagamento Recusado!';
+        document.getElementById('mensagem').textContent = aprovado ? 'Sua inscrição foi confirmada.' : 'Tente novamente.';
+        if (aprovado) {
+            document.getElementById('proximo').style.display = 'block';
+        }
+    </script>
+</body>
+</html>
